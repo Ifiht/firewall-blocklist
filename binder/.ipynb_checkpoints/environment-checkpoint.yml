@@ -1,0 +1,7 @@
+name: firewall-blocklist
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - keras
